@@ -1,0 +1,103 @@
+[info]-[2024/03/21 06:55:48] #################### Start Backup Job ####################
+[info]-[2024/03/21 06:55:48] WP Staging Version: 3.4.1
+[info]-[2024/03/21 06:55:48] PHP Version: 7.4.3-4ubuntu2.20
+[info]-[2024/03/21 06:55:48] Server: Apache/2.4.41 (Ubuntu)
+[info]-[2024/03/21 06:55:48] MySQL: 8.0.36
+[info]-[2024/03/21 06:55:48] WP Version: 6.2.2
+[info]-[2024/03/21 06:55:48] Host: General
+[info]-[2024/03/21 06:55:48] PHP Memory Limit: 157286400
+[info]-[2024/03/21 06:55:48] WP Memory Limit: 41943040
+[info]-[2024/03/21 06:55:48] PHP Max Execution Time: 30
+[info]-[2024/03/21 06:55:48] Is Multipart Backup: No 
+[info]-[2024/03/21 06:55:48] Backup Contents: {"Media Library":true,"Themes":true,"Must-Use Plugins":true,"Plugins":true,"Other Files In wp-content":true,"Database":true}
+[info]-[2024/03/21 06:55:48] Advanced Exclude Options: ["No"]
+[info]-[2024/03/21 06:55:48] Schedule Options: ["No"]
+[info]-[2024/03/21 06:55:48] Storages: ["localStorage"]
+[info]-[2024/03/21 06:55:48] Backup requirements passed...
+[info]-[2024/03/21 06:55:48] Discovering Files: Skipped directory "plugins/wp-staging/". Excluded by rule
+[info]-[2024/03/21 06:55:48] Discovering Files: Skipped directory "uploads/wp-staging/". Excluded by rule
+[info]-[2024/03/21 06:55:48] Discovering Files: Skipped file "wp-content/uploads/ur-logs/fatal-errors-08a6abba80d6a5cedc7bec71242fecc1.log/." Extension "log" is excluded by rule.
+[info]-[2024/03/21 06:55:48] Discovering Files: Skipped file "wp-content/uploads/wc-logs/fatal-errors-2024-02-27-08a6abba80d6a5cedc7bec71242fecc1.log/." Extension "log" is excluded by rule.
+[info]-[2024/03/21 06:55:48] Finished discovering Files. (9853 files)
+[info]-[2024/03/21 06:55:48] Added 5/5 otherfiles files to backup (8 MB/s)
+[info]-[2024/03/21 06:55:51] Added 8811/8811 plugins files to backup (47 MB/s)
+[info]-[2024/03/21 06:55:51] Added 0/0 muplugins files to backup (0 B/s)
+[info]-[2024/03/21 06:55:51] Added 820/820 themes files to backup (77 MB/s)
+[info]-[2024/03/21 06:55:51] Added 217/217 uploads files to backup (172 MB/s)
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_actionscheduler_actions. Rows: 41/41
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_actionscheduler_claims. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_actionscheduler_groups. Rows: 4/4
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_actionscheduler_logs. Rows: 119/119
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_action_claim. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_actions. Rows: 2/2
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_contact. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_contact_meta. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_conversion_tracking. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_funnelmeta. Rows: 4/4
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_funnels. Rows: 1/1
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_optin_entries. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_options. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwf_wc_customers. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwfan_abandonedcarts. Rows: 1/1
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwfan_automation_complete_contact. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwfan_automation_contact. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwfan_automation_contact_claim. Rows: 0/0
+[info]-[2024/03/21 06:55:51] Backup database: Table pr_bwfan_automation_contact_trail. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_bwfan_automation_step. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_bwfan_automationmeta. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_bwfan_automations. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_bwfan_message_unsubscribe. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_commentmeta. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_comments. Rows: 6/6
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_links. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_options. Rows: 694/694
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_postmeta. Rows: 1,359/1,359
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_posts. Rows: 211/211
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_term_relationships. Rows: 48/48
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_term_taxonomy. Rows: 33/33
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_termmeta. Rows: 32/32
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_terms. Rows: 33/33
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_tinvwl_analytics. Rows: 3/3
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_tinvwl_items. Rows: 1/1
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_tinvwl_lists. Rows: 2/2
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_user_registration_sessions. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_usermeta. Rows: 87/87
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_users. Rows: 3/3
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_admin_note_actions. Rows: 129/129
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_admin_notes. Rows: 97/97
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_category_lookup. Rows: 6/6
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_customer_lookup. Rows: 3/3
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_download_log. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_order_coupon_lookup. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_order_product_lookup. Rows: 4/4
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_order_stats. Rows: 3/3
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_order_tax_lookup. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_product_attributes_lookup. Rows: 19/19
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_product_download_directories. Rows: 2/2
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_product_meta_lookup. Rows: 20/20
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_rate_limits. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_reserved_stock. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_tax_rate_classes. Rows: 2/2
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wc_webhooks. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wfacp_stats. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wfco_connectormeta. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wfco_connectors. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_wfco_report_views. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_api_keys. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_attribute_taxonomies. Rows: 2/2
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_downloadable_product_permissions. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_log. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_order_itemmeta. Rows: 60/60
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_order_items. Rows: 7/7
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_payment_tokenmeta. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_payment_tokens. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_sessions. Rows: 1/1
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_shipping_zone_locations. Rows: 4/4
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_shipping_zone_methods. Rows: 5/5
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_shipping_zones. Rows: 4/4
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_tax_rate_locations. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Backup database: Table pr_woocommerce_tax_rates. Rows: 0/0
+[info]-[2024/03/21 06:55:52] Included 960 KB/960 KB of Database Backup.
+[info]-[2024/03/21 06:55:52] Successfully created backup file
+[info]-[2024/03/21 06:55:52] The backup was validated successfully.
+[info]-[2024/03/21 06:55:52] ################## FINISH ##################

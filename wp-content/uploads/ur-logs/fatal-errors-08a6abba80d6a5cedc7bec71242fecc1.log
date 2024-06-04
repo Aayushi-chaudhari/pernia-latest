@@ -1,0 +1,100 @@
+2023-11-22T13:13:08+00:00 CRITICAL Uncaught Error: Call to undefined function do_shortode() in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/home-page.php:227
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/pernia-latest/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#2 /var/www/html/pernia-latest/index.php(17): require('/var/www/html/p...')
+#3 {main}
+  thrown in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/home-page.php on line 227
+
+2024-02-13T09:36:12+00:00 CRITICAL Uncaught Error: Call to undefined function is_eligible_for_addons() in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php:860
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): calculate_addon_prices()
+#1 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1399): do_action()
+#4 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(298): WC_Cart->calculate_totals()
+#5 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#6 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output()
+#7 /var/www/html/pernia-latest/wp-content/plugin in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php on line 860
+
+2024-02-13T09:37:25+00:00 CRITICAL Uncaught Error: Call to undefined function is_eligible_for_addons() in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php:859
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): calculate_addon_prices()
+#1 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1399): do_action()
+#4 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(298): WC_Cart->calculate_totals()
+#5 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#6 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output()
+#7 /var/www/html/pernia-latest/wp-content/plugin in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php on line 859
+
+2024-02-13T09:37:35+00:00 CRITICAL Uncaught Error: Call to undefined function is_eligible_for_addons() in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php:859
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): calculate_addon_prices()
+#1 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1399): do_action()
+#4 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(94): WC_Cart->calculate_totals()
+#5 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output()
+#6 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper()
+#7 /var/www/html/pernia-latest/wp-includes/shortcodes.php(355): WC_Shortcod in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php on line 859
+
+2024-02-13T09:37:41+00:00 CRITICAL Uncaught Error: Call to undefined function is_eligible_for_addons() in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php:859
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): calculate_addon_prices()
+#1 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1399): do_action()
+#4 /var/www/html/pernia-latest/wp-content/plugins/cart-for-woocommerce/includes/front.php(250): WC_Cart->calculate_totals()
+#5 /var/www/html/pernia-latest/wp-content/plugins/cart-for-woocommerce/templates/cart/items.php(6): FKCart\Includes\Front->get_items()
+#6 /var/www/html/pernia-latest/wp-content/plugins/cart-for-woocommerce/includes/functions.php(71): require('/var/www/html/p...')
+#7 /var/www/html/pernia-latest/wp-content/plugins/cart-for-woocommerce/templates/skin/side-ca in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php on line 859
+
+2024-02-27T07:24:58+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on string in /var/www/html/pernia-latest/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php:25
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /var/www/html/pernia-latest/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1686): wc_get_template()
+#2 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): woocommerce_show_product_sale_flash()
+#3 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#4 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/single.php(40): do_action()
+#6 /var/www/html/pernia-latest/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#7 /var/www/html/pernia-latest/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#8 /var/www/html/pernia-latest/index.php(17) in /var/www/html/pernia-latest/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php on line 25
+
+2024-02-27T07:25:52+00:00 CRITICAL Uncaught Error: Call to a member function get_description() on string in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php:879
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): add_size_and_country_to_product_meta()
+#1 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/single.php(40): do_action()
+#4 /var/www/html/pernia-latest/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#5 /var/www/html/pernia-latest/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#6 /var/www/html/pernia-latest/index.php(17): require('/var/www/html/p...')
+#7 {main}
+  thrown in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php on line 879
+
+2024-02-27T07:25:53+00:00 CRITICAL Uncaught Error: Call to a member function get_description() on string in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php:879
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): add_size_and_country_to_product_meta()
+#1 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/single.php(40): do_action()
+#4 /var/www/html/pernia-latest/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#5 /var/www/html/pernia-latest/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#6 /var/www/html/pernia-latest/index.php(17): require('/var/www/html/p...')
+#7 {main}
+  thrown in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php on line 879
+
+2024-02-27T07:25:54+00:00 CRITICAL Uncaught Error: Call to a member function get_description() on string in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php:879
+Stack trace:
+#0 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(308): add_size_and_country_to_product_meta()
+#1 /var/www/html/pernia-latest/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/html/pernia-latest/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/single.php(40): do_action()
+#4 /var/www/html/pernia-latest/wp-includes/template-loader.php(106): include('/var/www/html/p...')
+#5 /var/www/html/pernia-latest/wp-blog-header.php(19): require_once('/var/www/html/p...')
+#6 /var/www/html/pernia-latest/index.php(17): require('/var/www/html/p...')
+#7 {main}
+  thrown in /var/www/html/pernia-latest/wp-content/themes/twentytwentyone child/functions.php on line 879
+

@@ -1,0 +1,1419 @@
+# Copyright (C) 2022 FunnelKit (formerly WooFunnels)
+# This file is distributed under the same license as the SlingBlocks – Gutenberg Blocks by FunnelKit (Formerly WooFunnels) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SlingBlocks – Gutenberg Blocks by FunnelKit (Formerly WooFunnels) 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/slingblocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-07T17:45:32+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: slingblocks\n"
+
+#. Plugin Name of the plugin
+msgid "SlingBlocks – Gutenberg Blocks by FunnelKit (Formerly WooFunnels)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://funnelkit.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A minimalist Gutenberg Block Plugin that extends Gutenberg to provide page building capabilities."
+msgstr ""
+
+#. Author of the plugin
+msgid "FunnelKit (formerly WooFunnels)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://funnelkit.com"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:35
+msgid "Layout 1"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:40
+msgid "Layout 2"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:45
+msgid "Layout 3"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:50
+msgid "Layout 4"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:98
+#: src/blocks/accordion/index.js:28
+#: src/blocks/accordion/index.js:32
+msgid "Accordion"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:131
+msgid "Add Accordion"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:139
+msgid "Select Accordion Style"
+msgstr ""
+
+#: src/blocks/accordion/edit.js:151
+msgid "Skip"
+msgstr ""
+
+#: src/blocks/accordion/index.js:29
+msgid "Select Accordion and then add data."
+msgstr ""
+
+#: src/blocks/accordion/index.js:31
+#: src/blocks/advance-button/index.js:18
+#: src/blocks/advance-heading/index.js:26
+#: src/blocks/button/index.js:16
+#: src/blocks/col/index.js:24
+#: src/blocks/columns/index.js:27
+#: src/blocks/countdown/index.js:27
+#: src/blocks/icon-list/index.js:22
+#: src/blocks/icon/index.js:18
+#: src/blocks/progress-bar/index.js:27
+#: src/blocks/space-divider/index.js:27
+msgid "Woofunnels"
+msgstr ""
+
+#: src/blocks/accordion/index.js:33
+msgid "ThankYou"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:62
+msgid "Layout"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:101
+msgid "Items close when another opens"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:109
+msgid "Start with all panes collapsed"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:119
+#: src/blocks/accordion/inspector-controls/general.js:121
+msgid "Initial Open Accordion"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:142
+msgid "Accordion Item"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:152
+msgid "Item Title Trigger Icon"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:167
+#: src/blocks/advance-button/inspector-control/general.js:84
+#: src/blocks/advance-heading/inspector-controls/general.js:70
+#: src/blocks/button/inspector-control/general.js:183
+#: src/blocks/icon-list/inspector-control/general.js:103
+#: src/blocks/icon/inspector-control/general.js:164
+#: src/blocks/pane/edit.js:67
+#: src/blocks/space-divider/inspector-control/general.js:64
+msgid "Visiblity"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:171
+#: src/blocks/advance-button/inspector-control/general.js:88
+#: src/blocks/advance-heading/inspector-controls/general.js:74
+#: src/blocks/button/inspector-control/general.js:187
+#: src/blocks/columns/inspector-controls/general.js:193
+#: src/blocks/icon-list/inspector-control/general.js:107
+#: src/blocks/icon/inspector-control/general.js:168
+#: src/blocks/pane/edit.js:71
+#: src/blocks/space-divider/inspector-control/general.js:68
+msgid "Hide on Desktop"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:176
+#: src/blocks/advance-button/inspector-control/general.js:93
+#: src/blocks/advance-heading/inspector-controls/general.js:79
+#: src/blocks/button/inspector-control/general.js:192
+#: src/blocks/columns/inspector-controls/general.js:198
+#: src/blocks/icon-list/inspector-control/general.js:112
+#: src/blocks/icon/inspector-control/general.js:173
+#: src/blocks/pane/edit.js:76
+#: src/blocks/space-divider/inspector-control/general.js:73
+msgid "Hide on Tablet"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/general.js:181
+#: src/blocks/advance-button/inspector-control/general.js:98
+#: src/blocks/advance-heading/inspector-controls/general.js:84
+#: src/blocks/button/inspector-control/general.js:197
+#: src/blocks/columns/inspector-controls/general.js:203
+#: src/blocks/icon-list/inspector-control/general.js:117
+#: src/blocks/icon/inspector-control/general.js:178
+#: src/blocks/pane/edit.js:81
+#: src/blocks/space-divider/inspector-control/general.js:78
+msgid "Hide on Mobile"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:49
+msgid "Active"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:165
+#: src/blocks/advance-heading/inspector-controls/style.js:69
+#: src/blocks/countdown/inspector-control/style.js:220
+#: src/blocks/icon-list/inspector-control/style.js:67
+#: src/blocks/progress-bar/inspector-control/style.js:194
+msgid "Typography"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:335
+msgid "Space Between Items"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:354
+#: src/blocks/accordion/inspector-controls/style.js:477
+msgid "Item Content"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:359
+#: src/common/block-spacing.js:37
+#: src/components/dimensional-control/index.js:194
+msgid "Padding"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:389
+#: src/blocks/accordion/inspector-controls/style.js:516
+msgid "Item Title"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:399
+#: src/blocks/advance-heading/inspector-controls/style.js:144
+msgid "Text Color"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:407
+#: src/blocks/advance-heading/inspector-controls/style.js:202
+msgid "Text Color Hover"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:417
+msgid "Text Color Active"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:441
+#: src/blocks/columns/inspector-controls/style.js:507
+#: src/blocks/countdown/inspector-control/style.js:183
+#: src/blocks/icon/inspector-control/style.js:131
+#: src/blocks/progress-bar/inspector-control/style.js:156
+msgid "Hover "
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:458
+msgid "Active "
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:504
+#: src/blocks/advance-button/inspector-control/style.js:120
+#: src/blocks/advance-heading/inspector-controls/style.js:284
+#: src/blocks/columns/inspector-controls/style.js:796
+#: src/blocks/countdown/inspector-control/style.js:886
+#: src/blocks/icon/inspector-control/style.js:184
+#: src/blocks/progress-bar/inspector-control/style.js:406
+msgid "Border"
+msgstr ""
+
+#: src/blocks/accordion/inspector-controls/style.js:547
+msgid "Items"
+msgstr ""
+
+#: src/blocks/advance-button/index.js:15
+#: src/blocks/advance-button/index.js:20
+msgid "Buttons"
+msgstr ""
+
+#: src/blocks/advance-button/index.js:16
+msgid "Create an advance button with responsive styling."
+msgstr ""
+
+#: src/blocks/advance-button/index.js:19
+#: src/blocks/button/index.js:17
+msgid "Advance"
+msgstr ""
+
+#: src/blocks/advance-button/inspector-control/style.js:65
+msgid "Space Between Buttons"
+msgstr ""
+
+#: src/blocks/advance-button/inspector-control/style.js:99
+#: src/blocks/columns/inspector-controls/style.js:462
+#: src/blocks/countdown/inspector-control/style.js:798
+#: src/blocks/icon-list/inspector-control/style.js:228
+msgid "Background"
+msgstr ""
+
+#: src/blocks/advance-button/inspector-control/style.js:138
+#: src/blocks/advance-heading/inspector-controls/style.js:294
+#: src/blocks/columns/inspector-controls/style.js:817
+#: src/blocks/countdown/inspector-control/style.js:936
+#: src/blocks/icon/inspector-control/style.js:213
+#: src/blocks/progress-bar/inspector-control/style.js:429
+msgid "Box Shadow"
+msgstr ""
+
+#: src/blocks/advance-heading/block-control.js:88
+msgid "Headling"
+msgstr ""
+
+#: src/blocks/advance-heading/block-control.js:157
+msgid "Paragraph"
+msgstr ""
+
+#: src/blocks/advance-heading/block-control.js:157
+#: src/blocks/advance-heading/inspector-controls/general.js:25
+msgid "Heading"
+msgstr ""
+
+#: src/blocks/advance-heading/edit.js:94
+#: src/blocks/pane/edit.js:93
+msgid "Enter Heading"
+msgstr ""
+
+#: src/blocks/advance-heading/index.js:23
+#: src/blocks/advance-heading/index.js:28
+#: src/blocks/progress-bar/inspector-control/style.js:242
+#: src/blocks/progress-bar/inspector-control/style.js:324
+msgid "Text"
+msgstr ""
+
+#: src/blocks/advance-heading/index.js:24
+msgid "Create a fully responsive heading or paragraph."
+msgstr ""
+
+#: src/blocks/advance-heading/index.js:27
+msgid "Advance Heading"
+msgstr ""
+
+#: src/blocks/advance-heading/inspector-controls/style.js:133
+#: src/blocks/countdown/inspector-control/style.js:503
+#: src/blocks/icon-list/inspector-control/style.js:169
+#: src/blocks/icon/inspector-control/style.js:104
+#: src/blocks/progress-bar/inspector-control/style.js:295
+#: src/components/text/index.js:52
+#: src/components/typography/index.js:60
+msgid "Color"
+msgstr ""
+
+#: src/blocks/advance-heading/inspector-controls/style.js:172
+msgid "Link Color"
+msgstr ""
+
+#: src/blocks/advance-heading/inspector-controls/style.js:236
+msgid "Link Color Hover"
+msgstr ""
+
+#: src/blocks/button/index.js:13
+#: src/blocks/button/index.js:18
+msgid "Button"
+msgstr ""
+
+#: src/blocks/button/index.js:14
+msgid "Button."
+msgstr ""
+
+#: src/blocks/button/index.js:19
+msgid "link"
+msgstr ""
+
+#: src/blocks/button/inspector-control/general.js:74
+msgid "Button Text"
+msgstr ""
+
+#: src/blocks/button/inspector-control/general.js:84
+msgid "Enable Secondary Text"
+msgstr ""
+
+#: src/blocks/button/inspector-control/general.js:96
+msgid "Button Secondary Text"
+msgstr ""
+
+#: src/blocks/button/inspector-control/general.js:108
+#: src/blocks/icon/inspector-control/style.js:61
+#: src/blocks/icon/inspector-control/style.js:64
+#: src/common/block-spacing.js:49
+msgid "Spacing"
+msgstr ""
+
+#: src/blocks/button/inspector-control/general.js:129
+#: src/blocks/icon-list/inspector-control/general.js:93
+#: src/blocks/icon-list/inspector-control/style.js:173
+#: src/blocks/icon-list/inspector-control/style.js:250
+#: src/blocks/icon/index.js:15
+#: src/blocks/icon/index.js:19
+#: src/blocks/icon/inspector-control/general.js:101
+#: src/blocks/icon/inspector-control/style.js:62
+#: src/blocks/icon/inspector-control/style.js:137
+#: src/components/icon-control/index.js:93
+msgid "Icon"
+msgstr ""
+
+#: src/blocks/col/edit.js:82
+msgid "Add/Duplicate Inner Container"
+msgstr ""
+
+#: src/blocks/col/edit.js:90
+msgid "Add New"
+msgstr ""
+
+#: src/blocks/col/edit.js:94
+msgid "Duplicate"
+msgstr ""
+
+#: src/blocks/col/index.js:22
+#: src/blocks/col/index.js:26
+msgid "Inner Container"
+msgstr ""
+
+#: src/blocks/col/index.js:25
+msgid "Inner Column"
+msgstr ""
+
+#: src/blocks/columns/edit.js:553
+msgid "Column Layout"
+msgstr ""
+
+#: src/blocks/columns/index.js:24
+#: src/blocks/columns/index.js:32
+#: src/blocks/countdown/inspector-control/style.js:466
+#: src/blocks/countdown/inspector-control/style.js:913
+#: src/blocks/countdown/inspector-control/style.js:997
+msgid "Container"
+msgstr ""
+
+#: src/blocks/columns/index.js:25
+msgid "Create a block with flexible column styling."
+msgstr ""
+
+#: src/blocks/columns/index.js:28
+msgid "Columns Layout"
+msgstr ""
+
+#: src/blocks/columns/index.js:29
+#: src/blocks/columns/inspector-controls/general.js:127
+msgid "Columns"
+msgstr ""
+
+#: src/blocks/columns/index.js:30
+msgid "Section"
+msgstr ""
+
+#: src/blocks/columns/index.js:31
+msgid "Divide"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/general.js:40
+#: src/blocks/columns/inspector-controls/style.js:46
+msgid "Column "
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/general.js:40
+#: src/blocks/columns/inspector-controls/style.js:46
+msgid " Width (in %)"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/general.js:133
+msgid "Number"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/general.js:152
+msgid "Container HTML tag"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/general.js:189
+msgid "Visibility"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:317
+#: src/blocks/columns/inspector-controls/style.js:347
+#: src/components/advanced-toolbar-control/index.js:30
+#: src/components/align-buttons-control/index.js:16
+msgid "Align Left"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:322
+#: src/blocks/columns/inspector-controls/style.js:352
+#: src/components/advanced-toolbar-control/index.js:35
+#: src/components/advanced-toolbar-control/index.js:53
+#: src/components/advanced-toolbar-control/index.js:76
+#: src/components/align-buttons-control/index.js:21
+msgid "Align Center"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:327
+#: src/blocks/columns/inspector-controls/style.js:357
+#: src/components/advanced-toolbar-control/index.js:40
+#: src/components/align-buttons-control/index.js:26
+msgid "Align Right"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:332
+msgid "Space Between"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:364
+msgid "Vertical Alignment"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:433
+msgid "Column Gutter"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:571
+msgid "Select Video"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:580
+msgid "HTML5 Video File URL"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:605
+msgid "Mute Video"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:631
+msgid "Loop Video"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:657
+msgid "Show Play Pause Buttons?"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:689
+msgid "Background Overlay"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:697
+msgid "Overlay Opacity"
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:720
+#: src/blocks/columns/inspector-controls/style.js:766
+msgid "Overlay "
+msgstr ""
+
+#: src/blocks/columns/inspector-controls/style.js:742
+msgid "Overlay Opacity Hover"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:16
+msgid "100"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:24
+msgid "50/50"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:32
+msgid "30/70"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:40
+msgid "70/30"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:48
+msgid "33/33/33"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:56
+msgid "25/50/25"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:64
+msgid "25/25/25/25"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:72
+msgid "Grid 2x2"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:80
+msgid "Grid 2x3"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:88
+msgid "Row 3"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:96
+msgid "Grid 2X1"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:104
+msgid "Grid 1X2"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:112
+msgid "Grid 2X5"
+msgstr ""
+
+#: src/blocks/columns/layouts.js:120
+msgid "Grid 2X4"
+msgstr ""
+
+#: src/blocks/countdown/index.js:24
+#: src/blocks/countdown/index.js:28
+#: src/blocks/countdown/inspector-control/style.js:427
+#: src/blocks/countdown/inspector-control/style.js:505
+#: src/blocks/countdown/inspector-control/style.js:891
+#: src/blocks/countdown/inspector-control/style.js:941
+msgid "Countdown"
+msgstr ""
+
+#: src/blocks/countdown/index.js:25
+msgid "Create customizable Countdown."
+msgstr ""
+
+#: src/blocks/countdown/index.js:29
+msgid "Timmer"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:36
+#: src/blocks/countdown/inspector-control/style.js:861
+#: src/blocks/progress-bar/inspector-control/style.js:36
+#: src/blocks/space-divider/inspector-control/style.js:31
+#: src/components/border/index.js:43
+#: src/components/dimensional-control/index.js:203
+#: src/utils/index.js:202
+msgid "Left"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:41
+#: src/blocks/progress-bar/inspector-control/style.js:41
+#: src/blocks/space-divider/inspector-control/style.js:36
+#: src/utils/index.js:207
+msgid "Center"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:46
+#: src/blocks/progress-bar/inspector-control/style.js:46
+#: src/blocks/space-divider/inspector-control/style.js:41
+#: src/components/border/index.js:49
+#: src/components/dimensional-control/index.js:201
+#: src/utils/index.js:212
+msgid "Right"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:221
+#: src/blocks/countdown/inspector-control/style.js:524
+msgid "Digits"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:261
+#: src/blocks/countdown/inspector-control/style.js:569
+msgid "Labels"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:302
+#: src/blocks/countdown/inspector-control/style.js:617
+msgid "Pre Text"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:342
+#: src/blocks/countdown/inspector-control/style.js:662
+msgid "Post Text"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:383
+msgid "Reverse Coundtdown Text"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:438
+msgid "Space Number and label"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:451
+msgid "Space Between Boxes"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:707
+msgid "Reverse Countdown Text"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:752
+#: src/blocks/countdown/inspector-control/style.js:821
+msgid "Separator"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:823
+#: src/blocks/icon/edit.js:133
+#: src/blocks/icon/inspector-control/style.js:139
+msgid "Size"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:846
+msgid "Position"
+msgstr ""
+
+#: src/blocks/countdown/inspector-control/style.js:848
+#: src/components/border/index.js:31
+#: src/components/dimensional-control/index.js:200
+msgid "Top"
+msgstr ""
+
+#: src/blocks/icon-list/index.js:19
+msgid "Icon List\""
+msgstr ""
+
+#: src/blocks/icon-list/index.js:20
+msgid "Create list with icons."
+msgstr ""
+
+#: src/blocks/icon-list/index.js:23
+msgid "Icon List"
+msgstr ""
+
+#: src/blocks/icon-list/index.js:24
+#: src/blocks/icon-list/inspector-control/style.js:205
+msgid "List"
+msgstr ""
+
+#: src/blocks/icon-list/inspector-control/general.js:78
+msgid "Number of Columns"
+msgstr ""
+
+#: src/blocks/icon-list/inspector-control/general.js:96
+msgid "You can click on each icon in the Icon List block to change them individually."
+msgstr ""
+
+#: src/blocks/icon-list/inspector-control/style.js:125
+msgid "List Spacing"
+msgstr ""
+
+#: src/blocks/icon-list/inspector-control/style.js:151
+msgid "Spacing Between Icon and Text"
+msgstr ""
+
+#: src/blocks/icon-list/inspector-control/style.js:259
+msgid "Icon Size"
+msgstr ""
+
+#: src/blocks/icon-list/inspector-control/style.js:270
+#: src/blocks/icon/edit.js:153
+#: src/blocks/icon/inspector-control/style.js:157
+msgid "Rotate"
+msgstr ""
+
+#: src/blocks/icon/index.js:16
+msgid "Pick an icon or upload your own SVG icon to decorate your content."
+msgstr ""
+
+#: src/blocks/icon/index.js:20
+msgid "Upload Icon"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/general.js:60
+msgid "Number of Icons"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/general.js:86
+msgid "Icon Design"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/general.js:89
+msgid "Plain"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/general.js:90
+msgid "Shaped"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/general.js:116
+msgid "Icon Link"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/general.js:124
+msgid "Open Link in New Tag"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/general.js:131
+msgid "Add Nofollow"
+msgstr ""
+
+#: src/blocks/icon/inspector-control/style.js:92
+msgid "Block"
+msgstr ""
+
+#: src/blocks/pane/index.js:26
+msgid "Item"
+msgstr ""
+
+#: src/blocks/pane/index.js:27
+msgid "Accordion Inner Content"
+msgstr ""
+
+#: src/blocks/progress-bar/index.js:24
+#: src/blocks/progress-bar/index.js:28
+msgid "Progress Bar"
+msgstr ""
+
+#: src/blocks/progress-bar/index.js:25
+msgid "Create customizable progress bar."
+msgstr ""
+
+#: src/blocks/progress-bar/index.js:29
+msgid "Progress"
+msgstr ""
+
+#: src/blocks/progress-bar/inspector-control/style.js:199
+#: src/blocks/progress-bar/inspector-control/style.js:300
+#: src/components/link/index.js:29
+msgid "Title"
+msgstr ""
+
+#: src/blocks/space-divider/edit.js:44
+#: src/blocks/space-divider/inspector-control/style.js:112
+#: src/common/block-sizing.js:38
+msgid "Width"
+msgstr ""
+
+#: src/blocks/space-divider/edit.js:63
+#: src/blocks/space-divider/inspector-control/style.js:131
+#: src/common/block-sizing.js:79
+msgid "Height"
+msgstr ""
+
+#: src/blocks/space-divider/index.js:24
+#: src/blocks/space-divider/index.js:28
+msgid "Space Divider"
+msgstr ""
+
+#: src/blocks/space-divider/index.js:25
+msgid "Add customizable space divider"
+msgstr ""
+
+#: src/blocks/space-divider/index.js:29
+msgid "Divider"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:25
+msgid "Divider Style"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:30
+#: src/components/border/index.js:109
+#: src/components/text/index.js:59
+msgid "Solid"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:34
+#: src/components/border/index.js:113
+#: src/components/text/index.js:63
+#: src/components/text/index.js:71
+msgid "Dotted"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:38
+#: src/components/border/index.js:133
+#: src/components/text/index.js:79
+msgid "Dashed"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:42
+#: src/components/border/index.js:117
+#: src/components/text/index.js:67
+msgid "Double"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:46
+#: src/components/border/index.js:121
+msgid "Inset"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:50
+#: src/components/border/index.js:125
+msgid "Outset"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/general.js:54
+#: src/components/border/index.js:129
+msgid "Ridge"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/style.js:65
+msgid "Space"
+msgstr ""
+
+#: src/blocks/space-divider/inspector-control/style.js:108
+#: src/common/block-sizing.js:106
+msgid "Sizing"
+msgstr ""
+
+#: src/common/block-sizing.js:50
+msgid "Max Width"
+msgstr ""
+
+#: src/common/block-sizing.js:91
+msgid "Min Height"
+msgstr ""
+
+#: src/common/block-spacing.js:25
+msgid "Margin"
+msgstr ""
+
+#: src/components/advanced-toolbar-control/index.js:48
+#: src/components/advanced-toolbar-control/index.js:71
+msgid "Align Top"
+msgstr ""
+
+#: src/components/advanced-toolbar-control/index.js:58
+#: src/components/advanced-toolbar-control/index.js:81
+msgid "Align Bottom"
+msgstr ""
+
+#: src/components/advanced-toolbar-control/index.js:63
+msgid "Stretch"
+msgstr ""
+
+#: src/components/align-buttons-control/index.js:31
+msgid "Justified"
+msgstr ""
+
+#: src/components/align-buttons-control/index.js:52
+msgid "Align"
+msgstr ""
+
+#: src/components/background/index.js:29
+msgid "Vivid cyan blue to vivid purple"
+msgstr ""
+
+#: src/components/background/index.js:35
+msgid "Light green cyan to vivid green cyan"
+msgstr ""
+
+#: src/components/background/index.js:41
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr ""
+
+#: src/components/background/index.js:50
+msgid "Luminous vivid orange to vivid red"
+msgstr ""
+
+#: src/components/background/index.js:56
+msgid "Very light gray to cyan bluish gray"
+msgstr ""
+
+#: src/components/background/index.js:62
+msgid "Cool to warm spectrum"
+msgstr ""
+
+#: src/components/background/index.js:68
+msgid "Blush light purple"
+msgstr ""
+
+#: src/components/background/index.js:74
+msgid "Blush bordeaux"
+msgstr ""
+
+#: src/components/background/index.js:80
+msgid "Luminous dusk"
+msgstr ""
+
+#: src/components/background/index.js:86
+msgid "Pale ocean"
+msgstr ""
+
+#: src/components/background/index.js:92
+msgid "Electric grass"
+msgstr ""
+
+#: src/components/background/index.js:98
+msgid "Midnight"
+msgstr ""
+
+#: src/components/background/index.js:146
+msgid " Color"
+msgstr ""
+
+#: src/components/background/index.js:165
+msgid " Gradient"
+msgstr ""
+
+#: src/components/background/index.js:203
+msgid " Image"
+msgstr ""
+
+#: src/components/block-toolbar/index.js:251
+msgid "Copy/Paste Styles"
+msgstr ""
+
+#: src/components/block-toolbar/index.js:259
+msgid "Copy Inner Container Style"
+msgstr ""
+
+#: src/components/block-toolbar/index.js:263
+msgid "Paste Inner Container Style"
+msgstr ""
+
+#: src/components/border/index.js:37
+#: src/components/dimensional-control/index.js:202
+msgid "Bottom"
+msgstr ""
+
+#: src/components/border/index.js:96
+msgid "Border Style"
+msgstr ""
+
+#: src/components/border/index.js:101
+#: src/components/font/index.js:154
+msgid "Not Set"
+msgstr ""
+
+#: src/components/border/index.js:105
+#: src/utils/index.js:224
+#: src/utils/index.js:246
+msgid "None"
+msgstr ""
+
+#: src/components/border/index.js:149
+msgid "Border Width"
+msgstr ""
+
+#: src/components/border/index.js:163
+msgid "Border Color"
+msgstr ""
+
+#: src/components/border/index.js:192
+msgid "All"
+msgstr ""
+
+#: src/components/border/index.js:226
+msgid "Border Radius"
+msgstr ""
+
+#: src/components/button/index.js:9
+msgid "Button Size"
+msgstr ""
+
+#: src/components/button/index.js:12
+#: src/components/image/index.js:59
+#: src/components/image/index.js:87
+msgid "Auto"
+msgstr ""
+
+#: src/components/button/index.js:13
+#: src/components/image/index.js:100
+msgid "Fixed"
+msgstr ""
+
+#: src/components/button/index.js:14
+msgid "Full WIdth"
+msgstr ""
+
+#: src/components/button/index.js:82
+msgid "Add Button"
+msgstr ""
+
+#: src/components/button/index.js:92
+msgid "Choose Screen"
+msgstr ""
+
+#: src/components/dimensional-control/index.js:134
+#: src/components/dimensional-control/index.js:144
+#: src/components/dimensional-control/index.js:154
+#: src/components/dimensional-control/index.js:164
+msgid "%s Top"
+msgstr ""
+
+#: src/components/dimensional-control/index.js:172
+#: src/components/icon-control/index.js:85
+msgid "Reset"
+msgstr ""
+
+#: src/components/font/index.js:75
+msgid "Font Family"
+msgstr ""
+
+#: src/components/font/index.js:87
+msgid "Select a font family"
+msgstr ""
+
+#: src/components/font/index.js:130
+msgid "Font Size"
+msgstr ""
+
+#: src/components/font/index.js:150
+msgid "Weight"
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:85
+msgid "Search"
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:91
+msgid "Upload"
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:97
+msgid "Paste"
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:185
+msgid "Upload SVG"
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:196
+msgid "Paste Icon SVG Html"
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:206
+msgid "Type to search icon"
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:246
+msgid "No matches found."
+msgstr ""
+
+#: src/components/icon-search-popover/index.js:262
+msgid "Clear"
+msgstr ""
+
+#: src/components/icons/index.js:49
+msgid "Set Icon"
+msgstr ""
+
+#: src/components/icons/index.js:60
+msgid "Search Icons"
+msgstr ""
+
+#: src/components/image/index.js:49
+msgid "Cover"
+msgstr ""
+
+#: src/components/image/index.js:54
+msgid "Contain"
+msgstr ""
+
+#: src/components/image/index.js:67
+msgid "No Repeat"
+msgstr ""
+
+#: src/components/image/index.js:72
+msgid "Repeat"
+msgstr ""
+
+#: src/components/image/index.js:77
+msgid "Repeat X"
+msgstr ""
+
+#: src/components/image/index.js:82
+msgid "Repeat Y"
+msgstr ""
+
+#: src/components/image/index.js:95
+msgid "Scroll"
+msgstr ""
+
+#: src/components/image/index.js:142
+msgid "Background Image Size"
+msgstr ""
+
+#: src/components/image/index.js:167
+msgid "Background Image Repeat"
+msgstr ""
+
+#: src/components/image/index.js:197
+msgid "Background Image Attachment"
+msgstr ""
+
+#: src/components/link/index.js:14
+#: src/components/link/index.js:95
+msgid "URL"
+msgstr ""
+
+#: src/components/link/index.js:26
+#: src/components/link/index.js:105
+msgid "Enter URL"
+msgstr ""
+
+#: src/components/link/index.js:41
+msgid "Enter Title"
+msgstr ""
+
+#: src/components/link/index.js:44
+#: src/components/link/index.js:108
+msgid "Link Target"
+msgstr ""
+
+#: src/components/link/index.js:49
+#: src/components/link/index.js:113
+msgid "Same Window"
+msgstr ""
+
+#: src/components/link/index.js:53
+#: src/components/link/index.js:117
+msgid "New Window"
+msgstr ""
+
+#: src/components/link/index.js:64
+#: src/components/link/index.js:126
+msgid "Set Link to no Follow"
+msgstr ""
+
+#: src/components/link/index.js:73
+#: src/components/link/index.js:131
+msgid "Set link attribute Sponsored?"
+msgstr ""
+
+#: src/components/link/index.js:157
+msgid "Open in new tab"
+msgstr ""
+
+#: src/components/link/index.js:176
+msgid "Apply"
+msgstr ""
+
+#: src/components/media/index.js:69
+msgid "Remove image"
+msgstr ""
+
+#: src/components/media/index.js:80
+msgid "Add an image"
+msgstr ""
+
+#: src/components/text/index.js:37
+msgid "X"
+msgstr ""
+
+#: src/components/text/index.js:42
+msgid "Y"
+msgstr ""
+
+#: src/components/text/index.js:47
+#: src/components/typography/index.js:50
+msgid "Blur"
+msgstr ""
+
+#: src/components/text/index.js:75
+msgid "Wavy"
+msgstr ""
+
+#: src/components/text/index.js:83
+#: src/utils/index.js:364
+msgid "Inherit"
+msgstr ""
+
+#: src/components/text/index.js:127
+msgid "Text Decoration Line"
+msgstr ""
+
+#: src/components/text/index.js:149
+msgid "Text Decoration Style"
+msgstr ""
+
+#: src/components/text/index.js:167
+msgid "Text Decoration Color"
+msgstr ""
+
+#: src/components/text/index.js:197
+msgid "Text Shadow"
+msgstr ""
+
+#: src/components/text/index.js:226
+msgid "Alignment"
+msgstr ""
+
+#: src/components/text/index.js:237
+msgid "Align Text Left"
+msgstr ""
+
+#: src/components/text/index.js:249
+msgid "Align Text Center"
+msgstr ""
+
+#: src/components/text/index.js:261
+msgid "Align Text Right"
+msgstr ""
+
+#: src/components/typography/index.js:38
+msgid "H Offset"
+msgstr ""
+
+#: src/components/typography/index.js:44
+msgid "V Offest"
+msgstr ""
+
+#: src/components/typography/index.js:55
+msgid "Spread"
+msgstr ""
+
+#: src/components/typography/index.js:66
+msgid "Enable Box Shadow Inset"
+msgstr ""
+
+#: src/components/typography/index.js:286
+msgid "Letter Spacing"
+msgstr ""
+
+#: src/components/typography/index.js:352
+msgid "Line Height"
+msgstr ""
+
+#: src/components/url-input-popover/index.js:20
+msgid "Open in New Tab"
+msgstr ""
+
+#: src/components/url-input-popover/index.js:24
+msgid "Nofollow Link"
+msgstr ""
+
+#: src/components/url-input-popover/index.js:95
+msgid "Search or type url"
+msgstr ""
+
+#: src/inspector/blocks-inspector.js:38
+msgid "General"
+msgstr ""
+
+#: src/inspector/blocks-inspector.js:49
+msgid "Style"
+msgstr ""
+
+#: src/utils/block-css.js:56
+msgid "Custom CSS"
+msgstr ""
+
+#: src/utils/index.js:138
+msgid "Black"
+msgstr ""
+
+#: src/utils/index.js:143
+msgid "Cyan bluish gray"
+msgstr ""
+
+#: src/utils/index.js:148
+msgid "White"
+msgstr ""
+
+#: src/utils/index.js:153
+msgid "Pale pink"
+msgstr ""
+
+#: src/utils/index.js:158
+msgid "Vivid red"
+msgstr ""
+
+#: src/utils/index.js:163
+msgid "Luminous vivid orange"
+msgstr ""
+
+#: src/utils/index.js:168
+msgid "Luminous vivid amber"
+msgstr ""
+
+#: src/utils/index.js:173
+msgid "Light green cyan"
+msgstr ""
+
+#: src/utils/index.js:178
+msgid "Vivid green cyan"
+msgstr ""
+
+#: src/utils/index.js:183
+msgid "Pale cyan blue"
+msgstr ""
+
+#: src/utils/index.js:188
+msgid "Vivid cyan blue"
+msgstr ""
+
+#: src/utils/index.js:193
+msgid "Vivid purple"
+msgstr ""
+
+#: src/utils/index.js:217
+msgid "Justify"
+msgstr ""
+
+#: src/utils/index.js:229
+msgid "Line Through"
+msgstr ""
+
+#: src/utils/index.js:234
+msgid "Underline"
+msgstr ""
+
+#: src/utils/index.js:239
+msgid "Overline"
+msgstr ""
+
+#: src/utils/index.js:250
+msgid "Capitalize"
+msgstr ""
+
+#: src/utils/index.js:254
+msgid "Uppercase"
+msgstr ""
+
+#: src/utils/index.js:258
+msgid "Lowercase"
+msgstr ""
+
+#: src/utils/index.js:274
+msgid "Standard Fonts"
+msgstr ""
+
+#: src/utils/index.js:355
+msgid "Google Fonts"
+msgstr ""
+
+#: src/utils/index.js:366
+msgid "Thin 100"
+msgstr ""
+
+#: src/utils/index.js:369
+msgid "Extra-Light 200"
+msgstr ""
+
+#: src/utils/index.js:371
+msgid "Light 300"
+msgstr ""
+
+#: src/utils/index.js:372
+msgid "Regular"
+msgstr ""
+
+#: src/utils/index.js:375
+msgid "Medium 500"
+msgstr ""
+
+#: src/utils/index.js:379
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: src/utils/index.js:381
+msgid "Bold 700"
+msgstr ""
+
+#: src/utils/index.js:384
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: src/utils/index.js:388
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: src/utils/index.js:473
+msgid "Normal"
+msgstr ""
+
+#: src/utils/index.js:477
+msgid "Hover"
+msgstr ""
